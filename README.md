@@ -8,3 +8,8 @@ Topics:
 -  Flutter UI, IOS, Android Development
 -  APIs, API Keys, .env
 -  Git
+
+Future Improvements
+- Email verification
+- Third-Party Login: Google, Facebook, etc
+- Modern onbarding UI design
